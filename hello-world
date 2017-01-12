@@ -1,0 +1,22 @@
+package HelloWorld;
+
+
+ /**
+ * Author: Matthew Refsnider
+ * Course: ISM3230 - Spring 2017
+ * Email: mrefsnid@fau.edu
+ */
+
+public class HelloWorld {
+    
+    /**
+    * @param args
+    */
+    public static void main(String[] args) {
+
+        // This method prints "Hello World" to the console.
+        System.out.println("Hello World");
+
+    }
+
+}
